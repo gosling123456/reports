@@ -1,0 +1,11 @@
+V={A,B,C,S}
+T={a,b,c}
+P
+#S->A
+#A->a|aB|aA|aC
+#B->b|bB
+#C->c|cC
+S=a
+
+利用上述文法，得到的结果是:
+
